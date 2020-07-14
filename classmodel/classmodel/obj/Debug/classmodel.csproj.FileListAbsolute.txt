@@ -1,0 +1,7 @@
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\classmodel\bin\Debug\classmodel.exe.config
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\classmodel\bin\Debug\classmodel.exe
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\classmodel\bin\Debug\classmodel.pdb
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\classmodel\obj\Debug\classmodel.csprojAssemblyReference.cache
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\classmodel\obj\Debug\classmodel.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\classmodel\obj\Debug\classmodel.exe
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\classmodel\obj\Debug\classmodel.pdb

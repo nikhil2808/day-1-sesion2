@@ -1,0 +1,6 @@
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\withwithoutvalue\bin\Debug\withwithoutvalue.exe.config
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\withwithoutvalue\bin\Debug\withwithoutvalue.exe
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\withwithoutvalue\bin\Debug\withwithoutvalue.pdb
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\withwithoutvalue\obj\Debug\withwithoutvalue.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\withwithoutvalue\obj\Debug\withwithoutvalue.exe
+C:\Users\nikhi\OneDrive\Desktop\day1session2\classmodel\withwithoutvalue\obj\Debug\withwithoutvalue.pdb
